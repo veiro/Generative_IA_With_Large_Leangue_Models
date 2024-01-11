@@ -1,0 +1,2 @@
+# Generative_IA_With_Large_Leangue_Models
+Notebooks entregados para las tareras
